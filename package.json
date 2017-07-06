@@ -1,0 +1,14 @@
+{
+  "name": "trivial-kbd",
+  "version": "0.1.0",
+  "description": "A port of Emacs' kbd macro",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "keyboard"
+  ],
+  "author": "Javier Olaechea <pirata@gmail.com>",
+  "license": "GPL-3.0"
+}
